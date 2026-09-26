@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://safex-bzn1.onrender.com/$1",
+      "permanent": false
+    }
+  ]
+}
